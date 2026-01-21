@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Developers**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RiginmReji](https://github.com/RiginmReji)
+- 👨‍💻 All of my projects you can see here...
 
 - 💬 Ask me about **Artificial intelligence**
 
