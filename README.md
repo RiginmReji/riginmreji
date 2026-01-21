@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, Here Rigin M Reji</h1>
 <h3 align="center">A passionate AI and Software Developer</h3>
 
+
+
 - 💼 Currently working as a **Junior Software Developer**, contributing to real-world applications
 
 - 🤖 Hands-on experience in **Machine Learning, Deep Learning,** and **AI** solutions
