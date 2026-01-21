@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rigin M Reji</h1>
+<h1 align="center">Hi 👋, Here Rigin M Reji</h1>
 <h3 align="center">A passionate AI and Software Developer</h3>
 
 - 💼 Currently working as a **Junior Software Developer**, contributing to real-world applications
