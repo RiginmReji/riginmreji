@@ -3,17 +3,17 @@
 
 
 
-💼 Currently working as a Junior Software Developer, contributing to the design, development, and maintenance of production-level applications.
+- 💼 Currently working as a Junior Software Developer, contributing to the design, development, and maintenance of production-level applications.
 
-🤖 Strong practical experience in Machine Learning, Deep Learning, and Artificial Intelligence, with hands-on project implementation.
+- 🤖 Strong practical experience in Machine Learning, Deep Learning, and Artificial Intelligence, with hands-on project implementation.
 
-👯 Open to collaborating on AI-driven and data-focused projects.
+- 👯 Open to collaborating on AI-driven and data-focused projects.
 
-🤝 Interested in connecting and working with experienced developers and technical teams to build scalable solutions.
+- 🤝 Interested in connecting and working with experienced developers and technical teams to build scalable solutions.
 
-👨‍💻 All of my projects are available in this repository, showcasing real-world implementations and practical problem-solving.
+- 👨‍💻 All of my projects are available in this repository, showcasing real-world implementations and practical problem-solving.
 
-💬 Feel free to reach out for discussions on Artificial Intelligence, Machine Learning, and backend development.
+- 💬 Feel free to reach out for discussions on Artificial Intelligence, Machine Learning, and backend development.
 
 - 📫 How to reach me **riginmreji77@gmail.com**
 
