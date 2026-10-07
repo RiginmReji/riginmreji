@@ -3,7 +3,7 @@
 
 
 
-- 💼 Currently working as a Junior Software Developer, contributing to the design, development, and maintenance of production-level applications.
+- 💼 Currently working as a Software Developer, contributing to the design, development, and maintenance of production-level Websites.
 
 - 🤖 Strong practical experience in Machine Learning, Deep Learning, and Artificial Intelligence, with hands-on project implementation.
 
